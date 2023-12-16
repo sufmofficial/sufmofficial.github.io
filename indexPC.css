@@ -1,0 +1,23 @@
+html{font-size:62.5%;}
+body {font:normal 100% Arial,sans-serif;font-size:14px; font-size:1.4rem; } 
+.left{ width:30%; float:left} 
+.right{ width:70%; float:right;}
+
+h1 {
+    background-color: rgb(235, 15, 59);
+    text-align: center;
+    height: 10%;font-size: 7rem;
+    }
+#fuqi {
+    vertical-align: middle;text-align: center;
+    }
+p {
+    text-align: center;
+    background-color: rgb(235, 15, 59);
+    font-size: 5rem;color: rgb(235, 15, 59);color: rgb(255, 255, 255);
+    margin-top: 5px; margin-left: 20%; margin-right: 20%;
+    border: 10px; border-radius: 10px;
+    }
+a:link {color: #2f00ff;}
+a:visited {color: #8b41df;}
+a:hover {color: #ffffff;}
